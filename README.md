@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**AdrianaCirelli/AdrianaCirelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, World 👋
 
 Adriana Cirelli | Developer Java Júnior in CI&T:
 
@@ -10,4 +7,3 @@ Adriana Cirelli | Developer Java Júnior in CI&T:
 - 📫 How to reach me: adrianacirelli@ciandt.com
 - 😄 Pronouns: She/Her
 
--->
