@@ -7,6 +7,7 @@ Adriana Cirelli | Developer Java Júnior in CI&T:
 - 📫 How to reach me: adrianacirelli@ciandt.com
 - 😄 Pronouns: She/Her
 
+
 <div>
   <a href="https://github.com/AdrianaCirelli">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdrianaCirelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,3 +18,8 @@ Adriana Cirelli | Developer Java Júnior in CI&T:
 
   <a href = "mailto:adrianacirelli@ciandt.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrianacirelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <div> 
+    ![Snake animation] (https://github.com/AdrianaCirelli/AdrianaCirelli/blob/output/github-contribution-grid-snake.svg)
+  </div>
