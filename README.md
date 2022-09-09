@@ -20,6 +20,3 @@ Adriana Cirelli | Developer Java Júnior in CI&T:
   <a href="https://www.linkedin.com/in/adrianacirelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <div> 
-    ![Snake animation] (https://github.com/AdrianaCirelli/AdrianaCirelli/blob/output/github-contribution-grid-snake.svg)
-  </div>
