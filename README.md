@@ -2,8 +2,8 @@
 
  Developer Java Júnior in CI&T:
 
-- 🔭 I’m currently working on Bootcamp Tomorrow Talents
-- 🌱 I’m currently learning Java/Spring
+- 🔭 I’m currently working on Water/São Francisco
+- 🌱 I’m currently learning Data Engineering Focused on python
 - 📫 How to reach me: adrianacirelli@ciandt.com
 - 😄 Pronouns: She/Her
 
