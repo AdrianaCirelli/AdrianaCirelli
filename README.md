@@ -1,6 +1,6 @@
 ### Hello, World 👋
 
- Developer Java Júnior in CI&T:
+ Data Developer Java/Python Júnior in CI&T:
 
 - 🔭 I’m currently working on Water/São Francisco
 - 🌱 I’m currently learning Data Engineering Focused on python
